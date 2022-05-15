@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "title": "handuk",
+      "price": "12k",
+      "id": 1
+    },
+    {
+      "title": "komputer",
+      "price": "30k",
+      "id": 2
+    },
+    {
+      "title": "kipas",
+      "price": "120k",
+      "id": 3
+    }
+  ]
+}

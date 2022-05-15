@@ -1,8 +1,9 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import productReducer  from '../features/ProductSlice'
 
+// pembuatan store dari nilai slice
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    product: productReducer
   },
 });
